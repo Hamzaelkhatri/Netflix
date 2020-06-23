@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Create by Hamza elkhatri
+  -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/add_24"
+        android:state_active="false"
+        />
+    <item android:drawable="@drawable/ic_clear_black_24dp" android:state_active="true"/>
+</selector>
