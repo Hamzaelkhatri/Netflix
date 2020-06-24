@@ -16,3 +16,4 @@ This project aims at rebuilding NETFLIX ANDROID APP with webservice PHP+MYSQL wi
  <a href="https://github.com/google/ExoPlayer">ExoPlayer</a>
     <p>ExoPlayer is an application level media player for Android. It provides an alternative to Android’s MediaPlayer API for playing audio and video both locally and over the Internet.</p>
    <h1>DEMO<h1>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/sKWSctt/468hyg.gif" alt="468hyg" border="0"></a>
