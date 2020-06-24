@@ -1,10 +1,10 @@
 # Netflix
 
-<h1>DESCRIPTION</h1>
+<h3>DESCRIPTION</h3>
 <p><strong>NETFLIX</strong> 
 This project aims at rebuilding NETFLIX ANDROID APP with webservice PHP+MYSQL with some Modification in UI/UX .<p>
 
-<h1>TOOLS</h1>
+<h3>TOOLS</h3>
 <strong><a href="https://github.com/google/volley">Volley</a></strong> 
 <p>HTTP library that makes networking for Android apps easier and faster<p>
 <strong>
