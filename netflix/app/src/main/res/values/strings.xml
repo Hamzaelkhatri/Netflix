@@ -1,0 +1,13 @@
+<!--
+  ~ Create by Hamza elkhatri
+  -->
+
+<resources>
+    <string name="app_name">webservices</string>
+
+    <string name="title_activity_video">video</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+</resources>
